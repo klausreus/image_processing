@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://klausreus.github.io',
                 'git_url': 'https://github.com/klausreus/image_processing',
                 'lib_path': 'image_processing'},
-  'syms': {'image_processing.core': {'image_processing.core.foo': ('core.html#foo', 'image_processing/core.py')}}}
+  'syms': { 'image_processing.temperature_extraction': { 'image_processing.temperature_extraction.say_hello': ( 'temperature_extraction.html#say_hello',
+                                                                                                                'image_processing/temperature_extraction.py')}}}
