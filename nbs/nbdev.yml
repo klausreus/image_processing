@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "image_processing"
+  site-url: "https://klausreus.github.io/image_processing"
+  description: "image_processing_software"
+  repo-branch: main
+  repo-url: "https://github.com/klausreus/image_processing"
