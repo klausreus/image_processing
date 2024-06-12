@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "image_processing",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "image_processing"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "image_processing",
+    "section": "Install",
+    "text": "Install\npip install image_processing",
+    "crumbs": [
+      "image_processing"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "image_processing",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "image_processing"
+    ]
+  },
+  {
+    "objectID": "temperature_extraction.html",
+    "href": "temperature_extraction.html",
+    "title": "Temperature Extraction",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'",
+    "crumbs": [
+      "Temperature Extraction"
+    ]
+  }
+]
